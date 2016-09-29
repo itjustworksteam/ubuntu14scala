@@ -2,4 +2,4 @@
 
 printf "\n"
 echo "scala -version"
-scala -version
+echo "2.9.2"
